@@ -5,3 +5,5 @@
 //You can change diceFace to a new image to change the dice in the Preview area.
 //The roll button triggers the code.
 //diceFace = diceImages[5];
+
+link to play the game: https://app.auditorium.ai/share/mfNXkTXR
